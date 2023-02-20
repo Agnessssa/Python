@@ -1,0 +1,26 @@
+{
+    "func_a": {
+        "args": [
+            "meoaw",
+            "meoaw_1",
+            "meoaw_2"
+        ],
+        "kwargs": {
+            "meoaw": "0",
+            "meoaw_1": "1",
+            "meoaw_2": "'woof'"
+        }
+    },
+    "func_b": {
+        "args": [
+            "meoaw",
+            "meoaw_1",
+            "meoaw_2"
+        ],
+        "kwargs": {}
+    },
+    "func_c": {
+        "args": [],
+        "kwargs": {}
+    }
+}

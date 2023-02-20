@@ -1,0 +1,10 @@
+def func_a(meoaw=0, meoaw_1=1, meoaw_2='woof'):
+    return 0
+
+
+def func_b(meoaw, meoaw_1, meoaw_2):
+    return 0
+
+
+def func_c():
+    return 0
